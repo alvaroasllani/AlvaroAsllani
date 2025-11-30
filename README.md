@@ -1,4 +1,4 @@
-<img width="1912" height="865" alt="image" src="https://github.com/user-attachments/assets/8cd6f3f8-ec2a-49b5-88c7-b9a5365ab160" /><div align="center">
+<div align="center">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=39C5BB&center=true&vCenter=true&width=435&lines=Hi,+I'm+Alvaro+Asllani;Frontend+Developer;39+Music+Lover+🎵;Gotta+Code+'Em+All!+👾" alt="Typing SVG" />
