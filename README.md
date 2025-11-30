@@ -6,28 +6,29 @@
 
   <br/>
 
-  <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif" width="50" />
+  <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif" width="60" />
 
   <br/>
   <br/>
 
-  <code><img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></code>
-  <code><img height="20" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/></code>
-  <code><img height="20" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/></code>
-  <code><img height="20" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/></code>
-  <code><img height="20" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"/></code>
+  <code><img height="22" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/></code>
+  <code><img height="22" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/></code>
+  <code><img height="22" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"/></code>
 
   <br/>
   <br/>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlvaroAsllani&show_icons=true&hide_border=true&title_color=39C5BB&icon_color=39C5BB&text_color=9f9f9f&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroAsllani&layout=compact&hide_border=true&title_color=39C5BB&text_color=9f9f9f&bg_color=0d1117" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=alvaroasllani&show_icons=true&hide_border=true&title_color=39C5BB&icon_color=39C5BB&text_color=9f9f9f&bg_color=0d1117&count_private=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroasllani&layout=compact&hide_border=true&title_color=39C5BB&text_color=9f9f9f&bg_color=0d1117" />
+    </a>
+  </p>
 
-  <br/>
   <br/>
 
   <img src="https://img.shields.io/badge/Vocaloid-01-39C5BB?style=for-the-badge&logo=applemusic&logoColor=white" />
